@@ -1,6 +1,5 @@
 # emapta-csvparser
 
-
 CSV Parser
 
-parses csv file with headers
+A java library that parses csv files with headers
